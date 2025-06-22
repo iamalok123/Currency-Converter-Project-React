@@ -94,12 +94,3 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Authors
-
-- Your Name - Initial work
-
-## 🙏 Acknowledgments
-
-- Exchange rate data provided by [API Provider]
-- Icons from React Icons
-- Design inspiration from [Source] 
